@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">block02 animal list</string>
+    <string name="animal_list">قائمة الحيوانات</string>
+    <string name="dog">كلب</string>
+    <string name="cat">قطة</string>
+    <string name="horse">حصان</string>
+    <string name="lion">أسد</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">block02 animal list</string>
+    <string name="animal_list">Animal List</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="horse">horse</string>
+    <string name="lion">lion</string>
+    <array name="animals_array">
+        <item>@string/dog</item>
+        <item>@string/cat</item>
+        <item>@string/horse</item>
+        <item>@string/lion</item>
+    </array>
+</resources>
